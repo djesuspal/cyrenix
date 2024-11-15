@@ -1,5 +1,5 @@
 export const siteMetadata = {
-  title: 'Denis Jesus Palma Abanto - Blockchain Infrastructure Expert & Former Solana Lead SRE',
+  title: 'Cyrenix - Denis Jesus Palma Abanto',
   description: 'Denis Palma Abanto is a pioneering blockchain infrastructure expert and former Lead Site Reliability Engineer at Solana. Specialized in blockchain infrastructure and investment opportunities.',
   author: 'Denis Jesus Palma Abanto',
   siteUrl: 'https://cyrenix.xyz',
@@ -14,7 +14,7 @@ export const siteMetadata = {
     'Cyrenix Founder'
   ],
   openGraph: {
-    title: 'Denis Jesus Palma Abanto - Blockchain Infrastructure Expert',
+    title: 'Cyrenix - Denis Jesus Palma Abanto',
     description: 'Former Lead SRE at Solana, pioneering blockchain infrastructure and investment opportunities.',
     images: [
       {
