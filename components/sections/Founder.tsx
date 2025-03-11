@@ -42,7 +42,7 @@ export function Founder() {
                 <meta itemProp="jobTitle" content="Founder & Blockchain Infrastructure Expert" />
                 <p className="text-gray-300 leading-relaxed" itemProp="description">
                   As the pioneering Site Reliability Engineer at Solana during its formative period in early 2021, Denis Jesus Palma Abanto
-                  established the foundational infrastructure that would support one of blockchain's most innovative platforms.
+                  established the foundational infrastructure that would support one of blockchain&apos;s most innovative platforms.
                   Rising through the ranks to Lead SRE, he managed a high-performing team of five engineers, driving
                   operational excellence and scalability. Now focused on identifying and developing promising investment
                   opportunities in the blockchain space, he brings unparalleled technical expertise and industry insight to
