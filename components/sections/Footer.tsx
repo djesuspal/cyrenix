@@ -24,7 +24,7 @@ export function Footer() {
             <h3 className="font-semibold mb-4">Resources</h3>
             <ul className="space-y-2">
               <li>
-                <Link href="#blog" className="text-sm text-gray-400 hover:text-white">
+                <Link href="/blog" className="text-sm text-gray-400 hover:text-white">
                   Blog
                 </Link>
               </li>

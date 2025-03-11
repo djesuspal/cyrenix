@@ -25,7 +25,7 @@ export function Header() {
           <Link href="#services" className="text-sm hover:text-purple-400 transition-colors">
             Services
           </Link>
-          <Link href="#founder" className="text-sm hover:text-purple-400 transition-colors">
+          <Link href="#denis-jesus-palma-abanto" className="text-sm hover:text-purple-400 transition-colors">
             Team
           </Link>
           <Button className="bg-white text-black hover:bg-purple-100">Contact Us</Button>

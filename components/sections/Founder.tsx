@@ -13,7 +13,7 @@ export function Founder() {
   }, [])
 
   return (
-    <section id="founder" className="relative py-24 bg-black/40">
+    <section id="denis-jesus-palma-abanto" className="relative py-24 bg-black/40">
       <div className="container mx-auto px-4">
         {mounted && (
           <motion.div
