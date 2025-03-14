@@ -3,6 +3,7 @@
 import { Button } from "@/components/ui/button"
 import { motion } from "framer-motion"
 import Image from "next/image"
+import Link from "next/link"
 import { useEffect, useState } from "react"
 
 export function Founder() {
@@ -50,9 +51,11 @@ export function Founder() {
                 </p>
               </div>
               <div className="flex space-x-4">
-                <Button variant="outline" className="border-purple-500 text-purple-400 hover:bg-purple-500/10">
-                  Learn More
-                </Button>
+                <Link href="/denis-jesus-palma-abanto">
+                  <Button variant="outline" className="border-purple-500 text-purple-400 hover:bg-purple-500/10">
+                    Learn More
+                  </Button>
+                </Link>
                 <Button className="bg-purple-500 hover:bg-purple-600">Connect</Button>
               </div>
             </div>
